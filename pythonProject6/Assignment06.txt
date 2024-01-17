@@ -1,0 +1,19 @@
+C:\Users\tasni\PycharmProjects\pythonProject6\.venv\Scripts\python.exe C:\Users\tasni\PycharmProjects\pythonProject6\Assignment06.py
+                              10        100        1000        10000
+native_search              1.993656  1.017094   2.984047   65.231323
+linear_search              0.989437  2.076864  15.691757  243.484735
+linear_search_sentinel     0.994921  1.004934  22.509336  261.647701
+binary_search_iterative    0.000000  0.000000   0.952721    3.141403
+binary_search_recursive    0.996590  1.992702   3.987551    2.990007
+binary_search_randomized   1.997471  0.577688  13.530731   20.112514
+binary_search_onesided     1.992226  3.268003   3.005981    4.145622
+binary_search_better       0.000000  3.062487   2.942801    0.997305
+ternary_search_iterative   0.949383  0.000000   2.994061    2.057314
+ternary_search_recursive   0.997066  1.059532   1.572609    6.960154
+ternary_search_randomized  2.527952  7.008076   7.612944   17.045498
+exponential_search         1.998425  0.997066   1.045704    6.166697
+jump_search                1.206875  2.072811   8.886814   30.287504
+fibonacci_search           2.071619  0.000000   5.917788   13.690948
+interpolation_search       0.000000  0.000000   3.148317    2.970934
+
+Process finished with exit code 0
